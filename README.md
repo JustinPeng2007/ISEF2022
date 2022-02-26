@@ -6,12 +6,8 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -23,6 +19,7 @@
 
 ## Technologies Used
   #### Hardware
+  ```
   -	1 Intel RealSense Depth Camera D435
   -	1 Chest mount harness
   -	1 Tripod mount
@@ -30,7 +27,9 @@
   -	1 5ft+ USB-A (v3.0+) to USB-C
   -	1 Laptop (CUDA-Enabled)
   -	1 Backpack
+  ```
   #### GVS System
+  ```
   -	1 Custom Designed PCB
   -	1 ESP8266 WIFI MCU
   -	1 MT3608 Boost Regulator
@@ -54,25 +53,17 @@
   -	1 USB ESP8266 Breakout
   -	1 3.5mm Electrode pad wire
   -	2 5x5cm Electrode pad
+  ```
   #### Software
+  ```
   -	Arduino IDE development platform
   -	Python 3.6.0
+  ```
   #### 3D printed
+  ```
   -	Housing Case
   -	Housing Lid
-
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+  ```
 
 
 ## Setup
@@ -88,35 +79,13 @@ Provide various use cases and code examples here.
 `write-your-code-here`
 
 
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
+  I would like to express my deep gratitude to my mentor, Mert Kaval, for his feedback and guidance throughout the project. I would also like to thank Ms. Leong, for helping me proofread most of the parts related to science fair. Finally, I wish to thank my parents for their support and encouragement throughout my studies.
 
 ## Contact
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## License
+This project is open source and available under the [... License]().
