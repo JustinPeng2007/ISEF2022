@@ -1,6 +1,5 @@
 # ISEF2022
 
-##heading
 Taking Control: A Novel Galvanic Stimulation Device for the Visually Impaired
 
 
