@@ -88,4 +88,4 @@ Provide various use cases and code examples here.
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 ## License
-This project is open source and available under the [... License]().
+This project is open source and available under the 
