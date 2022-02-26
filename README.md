@@ -1,33 +1,89 @@
-# ISEF 2022 Candidate Github
+# Project Name
+> Outline a brief description of your project.
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
+
+## General Information
+- Provide general information about your project here.
+- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies Used
+- Tech 1 - version 1.0
+- Tech 2 - version 2.0
+- Tech 3 - version 3.0
+
+
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
+
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
+
+
 ## Setup
-To run this project, install it locally using npm:
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
+Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-![githubfrontpage](https://user-images.githubusercontent.com/100437179/155861056-5ba12a6d-2134-45d8-a48d-d37b86d40029.jpg)
+## Usage
+How does one go about using it?
+Provide various use cases and code examples here.
+
+`write-your-code-here`
 
 
-It is a futuristic concept - being capable of controlling the safety with which a visually impaired person can move. Although this may seem impossible, using a non-evasive procedure named the Galvanic Vestibular Stimulation (GVS), it can be done safely and with few side effects. By applying a current of electrons (1- 1.5mA) delivered just behind the ear and in a certain direction, the vestibular system is stimulated to send additional signals to the brain, causing the sensation of being “steered”. 
-  
-  The white cane has been the most prominent and widely used mobility aid for the visually impaired for many decades. However, this mobility aid has many limitations. The white cane is only capable of detecting ground-level obstacles that are within proximity of the user. To target these limitations, the GVS device was created. Using a combination of Intel’s D435 depth camera and an object detection model YOLOv5, incoming objects within a 3-meter range are recognized and processed. In less than 0.2 seconds from detecting the object, an algorithm assesses the situation and sends out instructions via UDP (User Datagram Protocol) packets wirelessly to the GVS device. The GVS device receives the packets and steers the subject autonomously according to the packets received. 
-  
-  In total, four trials were conducted, each with different a scenario. Through experimentation, it was found that the device could successfully detect, process, and transmit geospatial information to the GVS system, then steer the user into the correct trajectory to avoid any hazards obstructing the user’s path. 
+## Project Status
+Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+
+
+## Room for Improvement
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+Room for improvement:
+- Improvement to be done 1
+- Improvement to be done 2
+
+To do:
+- Feature to be added 1
+- Feature to be added 2
+
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
+
+
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
