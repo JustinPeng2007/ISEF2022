@@ -88,4 +88,4 @@ Provide various use cases and code examples here.
 Contact Justin Peng by email: justinpeng5@gmail.com
 
 ## License
-This project is open source and available under the GNU General Public License v3.0. Refer to [LICENSE.md](LICENSE.md) file for details
+This project is open source and available under the GNU General Public License v3.0. Refer to [LICENSE.md](LICENSE) file for more details.
