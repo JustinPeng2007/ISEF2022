@@ -1,5 +1,9 @@
 # ISEF2022
+
+##heading
 Taking Control: A Novel Galvanic Stimulation Device for the Visually Impaired
+
+
 
 It is a futuristic concept - being capable of controlling the safety with which a visually impaired person can move. Although this may seem impossible, using a non-evasive procedure named the Galvanic Vestibular Stimulation (GVS), it can be done safely and with few side effects. By applying a current of electrons (1- 1.5mA) delivered just behind the ear and in a certain direction, the vestibular system is stimulated to send additional signals to the brain, causing the sensation of being “steered”. 
   
