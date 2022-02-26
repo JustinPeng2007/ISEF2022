@@ -85,7 +85,7 @@ Provide various use cases and code examples here.
   I would like to express my deep gratitude to my mentor, Mert Kaval, for his feedback and guidance throughout the project. I would also like to thank Ms. Leong, for helping me proofread most of the parts related to science fair. Finally, I wish to thank my parents for their support and encouragement throughout my studies.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Contact Justin Peng by email: justinpeng5@gmail.com
 
 ## License
 This project is open source and available under the GNU General Public License v3.0. Refer to [LICENSE.md](LICENSE.md) file for details
