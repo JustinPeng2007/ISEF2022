@@ -68,7 +68,7 @@
 
 ## Setup
 
-Please refer to [Setup Guide](setup-guide.md) for further instructions.
+Please refer to the "Setup Guide" folder for further instructions.
 
 
 ## Acknowledgements
