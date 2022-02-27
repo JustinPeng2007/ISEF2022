@@ -7,7 +7,6 @@
 * [Introduction](#introduction)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
