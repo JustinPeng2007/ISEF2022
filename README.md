@@ -68,7 +68,7 @@
 
 ## Setup
 
-Please refer to [LICENSE.md]()
+Please refer to [Setup Guide](setup-guide) for instructions.
 
 
 ## Acknowledgements
