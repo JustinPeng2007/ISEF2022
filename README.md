@@ -1,4 +1,5 @@
-# Taking Control: A Novel Galvanic Stimulation Device for the Visually Impaired 
+# SF2022
+#### Taking Control: A Novel Galvanic Stimulation Device for the Visually Impaired 
   ![githubfrontpage](https://user-images.githubusercontent.com/100437179/155861465-5c7b1c7a-2796-4e0b-b0ac-685588bb3837.jpg)
 
 
